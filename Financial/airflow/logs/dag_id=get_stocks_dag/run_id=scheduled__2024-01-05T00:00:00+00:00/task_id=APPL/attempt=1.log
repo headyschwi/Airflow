@@ -1,0 +1,24 @@
+[2024-01-06 12:03:04,722] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: get_stocks_dag.APPL scheduled__2024-01-05T00:00:00+00:00 [queued]>
+[2024-01-06 12:03:04,745] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: get_stocks_dag.APPL scheduled__2024-01-05T00:00:00+00:00 [queued]>
+[2024-01-06 12:03:04,745] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2024-01-06 12:03:04,745] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2024-01-06 12:03:04,745] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2024-01-06 12:03:04,806] {taskinstance.py:1377} INFO - Executing <Task(_PythonDecoratedOperator): APPL> on 2024-01-05 00:00:00+00:00
+[2024-01-06 12:03:04,814] {standard_task_runner.py:52} INFO - Started process 27367 to run task
+[2024-01-06 12:03:04,829] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'get_stocks_dag', 'APPL', 'scheduled__2024-01-05T00:00:00+00:00', '--job-id', '15', '--raw', '--subdir', 'DAGS_FOLDER/get_stocks.py', '--cfg-path', '/tmp/tmpeecggzhm', '--error-file', '/tmp/tmp63q7hs0b']
+[2024-01-06 12:03:04,830] {standard_task_runner.py:80} INFO - Job 15: Subtask APPL
+[2024-01-06 12:03:05,069] {task_command.py:370} INFO - Running <TaskInstance: get_stocks_dag.APPL scheduled__2024-01-05T00:00:00+00:00 [running]> on host airflow.vm.local
+[2024-01-06 12:03:05,265] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=get_stocks_dag
+AIRFLOW_CTX_TASK_ID=APPL
+AIRFLOW_CTX_EXECUTION_DATE=2024-01-05T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-01-05T00:00:00+00:00
+[2024-01-06 12:04:26,114] {base.py:269} ERROR - APPL: Period '1d' is invalid, must be one of ['1mo', '3mo', '6mo', 'ytd', '1y', '2y', '5y', '10y', 'max']
+[2024-01-06 12:04:26,131] {python.py:173} INFO - Done. Returned value was: None
+[2024-01-06 12:04:26,212] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=get_stocks_dag, task_id=APPL, execution_date=20240105T000000, start_date=20240106T120304, end_date=20240106T120426
+[2024-01-06 12:04:26,334] {local_task_job.py:156} INFO - Task exited with return code 0
+[2024-01-06 12:04:26,482] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

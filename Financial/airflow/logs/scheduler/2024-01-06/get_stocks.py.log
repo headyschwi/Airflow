@@ -1,0 +1,1034 @@
+[2024-01-06 11:40:46,090] {processor.py:153} INFO - Started process (PID=18844) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:40:46,091] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:40:46,091] {logging_mixin.py:115} INFO - [2024-01-06 11:40:46,091] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:40:46,774] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:40:46,829] {logging_mixin.py:115} INFO - [2024-01-06 11:40:46,829] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:40:46,856] {logging_mixin.py:115} INFO - [2024-01-06 11:40:46,855] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:40:46,874] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.789 seconds
+[2024-01-06 11:41:17,014] {processor.py:153} INFO - Started process (PID=19081) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:41:17,015] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:41:17,016] {logging_mixin.py:115} INFO - [2024-01-06 11:41:17,016] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:41:17,632] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:41:17,691] {logging_mixin.py:115} INFO - [2024-01-06 11:41:17,690] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:41:17,716] {logging_mixin.py:115} INFO - [2024-01-06 11:41:17,716] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:41:17,734] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.725 seconds
+[2024-01-06 11:41:48,018] {processor.py:153} INFO - Started process (PID=19180) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:41:48,051] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:41:48,059] {logging_mixin.py:115} INFO - [2024-01-06 11:41:48,058] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:41:49,655] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:41:49,760] {logging_mixin.py:115} INFO - [2024-01-06 11:41:49,760] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:41:49,787] {logging_mixin.py:115} INFO - [2024-01-06 11:41:49,787] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:41:49,841] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 1.827 seconds
+[2024-01-06 11:42:20,339] {processor.py:153} INFO - Started process (PID=19310) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:42:20,341] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:42:20,342] {logging_mixin.py:115} INFO - [2024-01-06 11:42:20,342] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:42:20,881] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:42:20,933] {logging_mixin.py:115} INFO - [2024-01-06 11:42:20,933] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:42:20,956] {logging_mixin.py:115} INFO - [2024-01-06 11:42:20,955] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:42:20,973] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.639 seconds
+[2024-01-06 11:44:21,167] {processor.py:153} INFO - Started process (PID=19762) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:44:21,205] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:44:21,205] {logging_mixin.py:115} INFO - [2024-01-06 11:44:21,205] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:44:21,979] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:44:22,073] {logging_mixin.py:115} INFO - [2024-01-06 11:44:22,073] {manager.py:508} INFO - Created Permission View: can edit on DAG:get_stocks_dag
+[2024-01-06 11:44:22,111] {logging_mixin.py:115} INFO - [2024-01-06 11:44:22,111] {manager.py:508} INFO - Created Permission View: can delete on DAG:get_stocks_dag
+[2024-01-06 11:44:22,131] {logging_mixin.py:115} INFO - [2024-01-06 11:44:22,130] {manager.py:508} INFO - Created Permission View: can read on DAG:get_stocks_dag
+[2024-01-06 11:44:22,131] {logging_mixin.py:115} INFO - [2024-01-06 11:44:22,131] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:44:22,146] {logging_mixin.py:115} INFO - [2024-01-06 11:44:22,146] {dag.py:2398} INFO - Creating ORM DAG for get_stocks_dag
+[2024-01-06 11:44:22,161] {logging_mixin.py:115} INFO - [2024-01-06 11:44:22,161] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:44:22,228] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 1.064 seconds
+[2024-01-06 11:45:20,567] {processor.py:153} INFO - Started process (PID=20106) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:45:20,597] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:45:20,598] {logging_mixin.py:115} INFO - [2024-01-06 11:45:20,598] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:45:21,351] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:45:21,364] {logging_mixin.py:115} INFO - [2024-01-06 11:45:21,363] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:45:21,380] {logging_mixin.py:115} INFO - [2024-01-06 11:45:21,379] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:45:21,405] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.857 seconds
+[2024-01-06 11:46:18,115] {processor.py:153} INFO - Started process (PID=20402) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:46:18,124] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:46:18,125] {logging_mixin.py:115} INFO - [2024-01-06 11:46:18,125] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:46:19,211] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:46:19,424] {logging_mixin.py:115} INFO - [2024-01-06 11:46:19,423] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:46:19,528] {logging_mixin.py:115} INFO - [2024-01-06 11:46:19,527] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:46:19,558] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 1.459 seconds
+[2024-01-06 11:46:50,008] {processor.py:153} INFO - Started process (PID=20652) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:46:50,011] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:46:50,018] {logging_mixin.py:115} INFO - [2024-01-06 11:46:50,018] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:46:51,000] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:46:51,108] {logging_mixin.py:115} INFO - [2024-01-06 11:46:51,107] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:46:51,150] {logging_mixin.py:115} INFO - [2024-01-06 11:46:51,150] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:46:51,290] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 1.286 seconds
+[2024-01-06 11:47:21,501] {processor.py:153} INFO - Started process (PID=20797) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:47:21,501] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:47:21,502] {logging_mixin.py:115} INFO - [2024-01-06 11:47:21,502] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:47:22,301] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:47:22,397] {logging_mixin.py:115} INFO - [2024-01-06 11:47:22,397] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:47:22,430] {logging_mixin.py:115} INFO - [2024-01-06 11:47:22,429] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:47:22,458] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.961 seconds
+[2024-01-06 11:47:52,638] {processor.py:153} INFO - Started process (PID=20939) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:47:52,663] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:47:52,665] {logging_mixin.py:115} INFO - [2024-01-06 11:47:52,665] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:47:53,277] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:47:53,327] {logging_mixin.py:115} INFO - [2024-01-06 11:47:53,327] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:47:53,351] {logging_mixin.py:115} INFO - [2024-01-06 11:47:53,351] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:47:53,377] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.748 seconds
+[2024-01-06 11:48:24,210] {processor.py:153} INFO - Started process (PID=21012) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:48:24,211] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:48:24,212] {logging_mixin.py:115} INFO - [2024-01-06 11:48:24,212] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:48:24,818] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:48:24,874] {logging_mixin.py:115} INFO - [2024-01-06 11:48:24,874] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:48:24,903] {logging_mixin.py:115} INFO - [2024-01-06 11:48:24,902] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:48:24,934] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.728 seconds
+[2024-01-06 11:48:55,350] {processor.py:153} INFO - Started process (PID=21089) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:48:55,353] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:48:55,354] {logging_mixin.py:115} INFO - [2024-01-06 11:48:55,353] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:48:56,064] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:48:56,122] {logging_mixin.py:115} INFO - [2024-01-06 11:48:56,119] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:48:56,153] {logging_mixin.py:115} INFO - [2024-01-06 11:48:56,153] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:48:56,189] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.845 seconds
+[2024-01-06 11:49:26,594] {processor.py:153} INFO - Started process (PID=21166) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:49:26,595] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:49:26,596] {logging_mixin.py:115} INFO - [2024-01-06 11:49:26,595] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:49:27,366] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:49:27,501] {logging_mixin.py:115} INFO - [2024-01-06 11:49:27,499] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:49:27,550] {logging_mixin.py:115} INFO - [2024-01-06 11:49:27,550] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:49:27,619] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 1.033 seconds
+[2024-01-06 11:49:57,978] {processor.py:153} INFO - Started process (PID=21248) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:49:57,980] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:49:57,981] {logging_mixin.py:115} INFO - [2024-01-06 11:49:57,981] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:49:58,626] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:49:58,679] {logging_mixin.py:115} INFO - [2024-01-06 11:49:58,679] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:49:58,706] {logging_mixin.py:115} INFO - [2024-01-06 11:49:58,706] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:49:58,729] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.758 seconds
+[2024-01-06 11:50:29,115] {processor.py:153} INFO - Started process (PID=21326) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:50:29,118] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:50:29,118] {logging_mixin.py:115} INFO - [2024-01-06 11:50:29,118] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:50:29,770] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:50:29,831] {logging_mixin.py:115} INFO - [2024-01-06 11:50:29,831] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:50:29,857] {logging_mixin.py:115} INFO - [2024-01-06 11:50:29,857] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:50:29,885] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.778 seconds
+[2024-01-06 11:51:00,258] {processor.py:153} INFO - Started process (PID=21397) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:51:00,262] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:51:00,262] {logging_mixin.py:115} INFO - [2024-01-06 11:51:00,262] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:51:00,894] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:51:00,962] {logging_mixin.py:115} INFO - [2024-01-06 11:51:00,962] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:51:00,997] {logging_mixin.py:115} INFO - [2024-01-06 11:51:00,996] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:51:01,023] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.770 seconds
+[2024-01-06 11:51:33,128] {processor.py:153} INFO - Started process (PID=21497) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:51:33,131] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:51:33,131] {logging_mixin.py:115} INFO - [2024-01-06 11:51:33,131] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:51:34,078] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:51:34,197] {logging_mixin.py:115} INFO - [2024-01-06 11:51:34,197] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:51:34,226] {logging_mixin.py:115} INFO - [2024-01-06 11:51:34,226] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:51:34,250] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 1.143 seconds
+[2024-01-06 11:52:04,589] {processor.py:153} INFO - Started process (PID=21637) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:52:04,590] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:52:04,592] {logging_mixin.py:115} INFO - [2024-01-06 11:52:04,591] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:52:05,175] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:52:05,227] {logging_mixin.py:115} INFO - [2024-01-06 11:52:05,226] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:52:05,251] {logging_mixin.py:115} INFO - [2024-01-06 11:52:05,251] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:52:05,274] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.689 seconds
+[2024-01-06 11:52:35,684] {processor.py:153} INFO - Started process (PID=21720) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:52:35,685] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:52:35,685] {logging_mixin.py:115} INFO - [2024-01-06 11:52:35,685] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:52:36,361] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:52:36,445] {logging_mixin.py:115} INFO - [2024-01-06 11:52:36,445] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:52:36,477] {logging_mixin.py:115} INFO - [2024-01-06 11:52:36,477] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:52:36,500] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.821 seconds
+[2024-01-06 11:53:06,939] {processor.py:153} INFO - Started process (PID=21798) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:53:06,940] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:53:06,941] {logging_mixin.py:115} INFO - [2024-01-06 11:53:06,941] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:53:07,607] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:53:07,664] {logging_mixin.py:115} INFO - [2024-01-06 11:53:07,663] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:53:07,689] {logging_mixin.py:115} INFO - [2024-01-06 11:53:07,689] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:53:07,717] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.783 seconds
+[2024-01-06 11:53:37,790] {processor.py:153} INFO - Started process (PID=21880) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:53:37,791] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:53:37,796] {logging_mixin.py:115} INFO - [2024-01-06 11:53:37,791] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:53:38,649] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:53:38,829] {logging_mixin.py:115} INFO - [2024-01-06 11:53:38,828] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:53:38,913] {logging_mixin.py:115} INFO - [2024-01-06 11:53:38,913] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:53:38,969] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 1.184 seconds
+[2024-01-06 11:54:09,632] {processor.py:153} INFO - Started process (PID=21958) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:54:09,647] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:54:09,647] {logging_mixin.py:115} INFO - [2024-01-06 11:54:09,647] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:54:10,509] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:54:10,561] {logging_mixin.py:115} INFO - [2024-01-06 11:54:10,561] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:54:10,596] {logging_mixin.py:115} INFO - [2024-01-06 11:54:10,595] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:54:10,655] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 1.036 seconds
+[2024-01-06 11:54:41,358] {processor.py:153} INFO - Started process (PID=22228) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:54:41,360] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:54:41,361] {logging_mixin.py:115} INFO - [2024-01-06 11:54:41,361] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:54:42,005] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:54:42,114] {logging_mixin.py:115} INFO - [2024-01-06 11:54:42,114] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:54:42,212] {logging_mixin.py:115} INFO - [2024-01-06 11:54:42,212] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:54:42,347] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.994 seconds
+[2024-01-06 11:55:12,514] {processor.py:153} INFO - Started process (PID=22346) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:55:12,515] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:55:12,516] {logging_mixin.py:115} INFO - [2024-01-06 11:55:12,516] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:55:13,123] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:55:13,249] {logging_mixin.py:115} INFO - [2024-01-06 11:55:13,248] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:55:13,274] {logging_mixin.py:115} INFO - [2024-01-06 11:55:13,274] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:55:13,308] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.797 seconds
+[2024-01-06 11:55:43,922] {processor.py:153} INFO - Started process (PID=22469) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:55:43,929] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:55:43,930] {logging_mixin.py:115} INFO - [2024-01-06 11:55:43,929] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:55:44,619] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:55:44,668] {logging_mixin.py:115} INFO - [2024-01-06 11:55:44,668] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:55:44,692] {logging_mixin.py:115} INFO - [2024-01-06 11:55:44,692] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:55:44,750] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.833 seconds
+[2024-01-06 11:56:15,520] {processor.py:153} INFO - Started process (PID=22727) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:56:15,558] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:56:15,562] {logging_mixin.py:115} INFO - [2024-01-06 11:56:15,562] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:56:17,046] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:56:17,170] {logging_mixin.py:115} INFO - [2024-01-06 11:56:17,170] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:56:17,267] {logging_mixin.py:115} INFO - [2024-01-06 11:56:17,266] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:56:17,361] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 1.858 seconds
+[2024-01-06 11:56:48,248] {processor.py:153} INFO - Started process (PID=22879) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:56:48,250] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:56:48,250] {logging_mixin.py:115} INFO - [2024-01-06 11:56:48,250] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:56:48,802] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:56:48,853] {logging_mixin.py:115} INFO - [2024-01-06 11:56:48,852] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:56:48,879] {logging_mixin.py:115} INFO - [2024-01-06 11:56:48,879] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:56:48,898] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.655 seconds
+[2024-01-06 11:57:19,143] {processor.py:153} INFO - Started process (PID=22999) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:57:19,144] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:57:19,145] {logging_mixin.py:115} INFO - [2024-01-06 11:57:19,145] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:57:19,648] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:57:19,698] {logging_mixin.py:115} INFO - [2024-01-06 11:57:19,698] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:57:19,724] {logging_mixin.py:115} INFO - [2024-01-06 11:57:19,723] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:57:19,744] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.606 seconds
+[2024-01-06 11:57:50,624] {processor.py:153} INFO - Started process (PID=23226) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:57:50,625] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:57:50,625] {logging_mixin.py:115} INFO - [2024-01-06 11:57:50,625] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:57:51,159] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:57:51,210] {logging_mixin.py:115} INFO - [2024-01-06 11:57:51,210] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:57:51,235] {logging_mixin.py:115} INFO - [2024-01-06 11:57:51,235] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-01-06 11:57:51,261] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.643 seconds
+[2024-01-06 11:58:22,065] {processor.py:153} INFO - Started process (PID=23462) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:58:22,069] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:58:22,070] {logging_mixin.py:115} INFO - [2024-01-06 11:58:22,070] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:58:23,790] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:58:24,138] {logging_mixin.py:115} INFO - [2024-01-06 11:58:24,135] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:58:24,306] {logging_mixin.py:115} INFO - [2024-01-06 11:58:24,306] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-03T00:00:00+00:00, run_after=2024-01-04T00:00:00+00:00
+[2024-01-06 11:58:24,476] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 2.417 seconds
+[2024-01-06 11:58:54,642] {processor.py:153} INFO - Started process (PID=23930) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:58:54,643] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:58:54,644] {logging_mixin.py:115} INFO - [2024-01-06 11:58:54,644] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:58:55,180] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:58:55,221] {logging_mixin.py:115} INFO - [2024-01-06 11:58:55,221] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:58:55,245] {logging_mixin.py:115} INFO - [2024-01-06 11:58:55,245] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 11:58:55,262] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.627 seconds
+[2024-01-06 11:59:25,770] {processor.py:153} INFO - Started process (PID=24357) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:59:25,770] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:59:25,771] {logging_mixin.py:115} INFO - [2024-01-06 11:59:25,771] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:59:26,281] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:59:26,326] {logging_mixin.py:115} INFO - [2024-01-06 11:59:26,326] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:59:26,351] {logging_mixin.py:115} INFO - [2024-01-06 11:59:26,351] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 11:59:26,373] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.610 seconds
+[2024-01-06 11:59:56,782] {processor.py:153} INFO - Started process (PID=24793) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:59:56,789] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 11:59:56,790] {logging_mixin.py:115} INFO - [2024-01-06 11:59:56,790] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:59:57,357] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 11:59:57,618] {logging_mixin.py:115} INFO - [2024-01-06 11:59:57,618] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 11:59:57,744] {logging_mixin.py:115} INFO - [2024-01-06 11:59:57,744] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 11:59:57,858] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 1.078 seconds
+[2024-01-06 12:00:28,291] {processor.py:153} INFO - Started process (PID=25204) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:00:28,292] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:00:28,292] {logging_mixin.py:115} INFO - [2024-01-06 12:00:28,292] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:00:28,628] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:00:28,673] {logging_mixin.py:115} INFO - [2024-01-06 12:00:28,673] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:00:28,696] {logging_mixin.py:115} INFO - [2024-01-06 12:00:28,696] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:00:28,713] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.424 seconds
+[2024-01-06 12:00:59,171] {processor.py:153} INFO - Started process (PID=25719) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:00:59,180] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:00:59,181] {logging_mixin.py:115} INFO - [2024-01-06 12:00:59,180] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:00:59,748] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:00:59,797] {logging_mixin.py:115} INFO - [2024-01-06 12:00:59,797] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:00:59,827] {logging_mixin.py:115} INFO - [2024-01-06 12:00:59,827] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:00:59,850] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.681 seconds
+[2024-01-06 12:01:30,485] {processor.py:153} INFO - Started process (PID=26226) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:01:30,485] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:01:30,486] {logging_mixin.py:115} INFO - [2024-01-06 12:01:30,486] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:01:30,860] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:01:30,907] {logging_mixin.py:115} INFO - [2024-01-06 12:01:30,906] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:01:30,929] {logging_mixin.py:115} INFO - [2024-01-06 12:01:30,929] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:01:30,956] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.474 seconds
+[2024-01-06 12:02:01,451] {processor.py:153} INFO - Started process (PID=26461) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:02:01,455] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:02:01,456] {logging_mixin.py:115} INFO - [2024-01-06 12:02:01,455] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:02:01,750] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:02:01,872] {logging_mixin.py:115} INFO - [2024-01-06 12:02:01,872] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:02:01,902] {logging_mixin.py:115} INFO - [2024-01-06 12:02:01,902] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:02:01,924] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.474 seconds
+[2024-01-06 12:02:32,735] {processor.py:153} INFO - Started process (PID=26788) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:02:32,736] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:02:32,736] {logging_mixin.py:115} INFO - [2024-01-06 12:02:32,736] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:02:33,128] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:02:33,167] {logging_mixin.py:115} INFO - [2024-01-06 12:02:33,167] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:02:33,189] {logging_mixin.py:115} INFO - [2024-01-06 12:02:33,188] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:02:33,213] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.481 seconds
+[2024-01-06 12:03:03,534] {processor.py:153} INFO - Started process (PID=27303) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:03:03,536] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:03:03,537] {logging_mixin.py:115} INFO - [2024-01-06 12:03:03,536] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:03:07,798] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:03:07,849] {logging_mixin.py:115} INFO - [2024-01-06 12:03:07,849] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:03:07,866] {logging_mixin.py:115} INFO - [2024-01-06 12:03:07,866] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:03:07,881] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 4.355 seconds
+[2024-01-06 12:03:38,418] {processor.py:153} INFO - Started process (PID=28332) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:03:38,418] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:03:38,418] {logging_mixin.py:115} INFO - [2024-01-06 12:03:38,418] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:03:39,796] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:03:39,883] {logging_mixin.py:115} INFO - [2024-01-06 12:03:39,882] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:03:39,909] {logging_mixin.py:115} INFO - [2024-01-06 12:03:39,909] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:03:39,984] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 1.574 seconds
+[2024-01-06 12:04:10,463] {processor.py:153} INFO - Started process (PID=28951) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:04:10,478] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:04:10,482] {logging_mixin.py:115} INFO - [2024-01-06 12:04:10,482] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:04:11,149] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:04:11,286] {logging_mixin.py:115} INFO - [2024-01-06 12:04:11,285] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:04:11,315] {logging_mixin.py:115} INFO - [2024-01-06 12:04:11,315] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:04:11,395] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.936 seconds
+[2024-01-06 12:04:42,258] {processor.py:153} INFO - Started process (PID=29742) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:04:42,259] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:04:42,262] {logging_mixin.py:115} INFO - [2024-01-06 12:04:42,262] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:04:42,713] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:04:42,749] {logging_mixin.py:115} INFO - [2024-01-06 12:04:42,749] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:04:42,764] {logging_mixin.py:115} INFO - [2024-01-06 12:04:42,763] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:04:42,777] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.522 seconds
+[2024-01-06 12:05:13,385] {processor.py:153} INFO - Started process (PID=29982) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:05:13,387] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:05:13,387] {logging_mixin.py:115} INFO - [2024-01-06 12:05:13,387] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:05:13,895] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:05:14,012] {logging_mixin.py:115} INFO - [2024-01-06 12:05:14,011] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:05:14,072] {logging_mixin.py:115} INFO - [2024-01-06 12:05:14,063] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:05:14,153] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.772 seconds
+[2024-01-06 12:05:44,840] {processor.py:153} INFO - Started process (PID=30179) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:05:44,848] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:05:44,848] {logging_mixin.py:115} INFO - [2024-01-06 12:05:44,848] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:05:45,224] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:05:45,261] {logging_mixin.py:115} INFO - [2024-01-06 12:05:45,261] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:05:45,277] {logging_mixin.py:115} INFO - [2024-01-06 12:05:45,277] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:05:45,300] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.463 seconds
+[2024-01-06 12:06:15,679] {processor.py:153} INFO - Started process (PID=30518) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:06:15,680] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:06:15,681] {logging_mixin.py:115} INFO - [2024-01-06 12:06:15,680] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:06:16,031] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:06:16,094] {logging_mixin.py:115} INFO - [2024-01-06 12:06:16,094] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:06:16,114] {logging_mixin.py:115} INFO - [2024-01-06 12:06:16,114] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:06:16,128] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.451 seconds
+[2024-01-06 12:06:46,803] {processor.py:153} INFO - Started process (PID=30628) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:06:46,812] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:06:46,812] {logging_mixin.py:115} INFO - [2024-01-06 12:06:46,812] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:06:47,182] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:06:47,227] {logging_mixin.py:115} INFO - [2024-01-06 12:06:47,227] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:06:47,247] {logging_mixin.py:115} INFO - [2024-01-06 12:06:47,247] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:06:47,260] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.461 seconds
+[2024-01-06 12:07:17,371] {processor.py:153} INFO - Started process (PID=30720) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:07:17,372] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:07:17,373] {logging_mixin.py:115} INFO - [2024-01-06 12:07:17,373] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:07:17,770] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:07:17,803] {logging_mixin.py:115} INFO - [2024-01-06 12:07:17,803] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:07:17,821] {logging_mixin.py:115} INFO - [2024-01-06 12:07:17,821] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:07:17,835] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.468 seconds
+[2024-01-06 12:07:48,400] {processor.py:153} INFO - Started process (PID=30818) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:07:48,407] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:07:48,408] {logging_mixin.py:115} INFO - [2024-01-06 12:07:48,408] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:07:48,759] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:07:48,792] {logging_mixin.py:115} INFO - [2024-01-06 12:07:48,792] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:07:48,810] {logging_mixin.py:115} INFO - [2024-01-06 12:07:48,809] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:07:48,825] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.427 seconds
+[2024-01-06 12:08:19,675] {processor.py:153} INFO - Started process (PID=30907) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:08:19,676] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:08:19,677] {logging_mixin.py:115} INFO - [2024-01-06 12:08:19,677] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:08:20,008] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:08:20,043] {logging_mixin.py:115} INFO - [2024-01-06 12:08:20,042] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:08:20,061] {logging_mixin.py:115} INFO - [2024-01-06 12:08:20,061] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:08:20,083] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.410 seconds
+[2024-01-06 12:08:50,153] {processor.py:153} INFO - Started process (PID=30998) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:08:50,156] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:08:50,156] {logging_mixin.py:115} INFO - [2024-01-06 12:08:50,156] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:08:50,540] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:08:50,574] {logging_mixin.py:115} INFO - [2024-01-06 12:08:50,573] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:08:50,594] {logging_mixin.py:115} INFO - [2024-01-06 12:08:50,594] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:08:50,610] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.458 seconds
+[2024-01-06 12:09:21,383] {processor.py:153} INFO - Started process (PID=31095) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:09:21,385] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:09:21,385] {logging_mixin.py:115} INFO - [2024-01-06 12:09:21,385] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:09:21,758] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:09:21,792] {logging_mixin.py:115} INFO - [2024-01-06 12:09:21,792] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:09:21,808] {logging_mixin.py:115} INFO - [2024-01-06 12:09:21,808] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:09:21,824] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.444 seconds
+[2024-01-06 12:09:52,672] {processor.py:153} INFO - Started process (PID=31184) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:09:52,674] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:09:52,674] {logging_mixin.py:115} INFO - [2024-01-06 12:09:52,674] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:09:53,039] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:09:53,070] {logging_mixin.py:115} INFO - [2024-01-06 12:09:53,070] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:09:53,086] {logging_mixin.py:115} INFO - [2024-01-06 12:09:53,086] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:09:53,101] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.432 seconds
+[2024-01-06 12:10:24,108] {processor.py:153} INFO - Started process (PID=31295) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:10:24,108] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:10:24,109] {logging_mixin.py:115} INFO - [2024-01-06 12:10:24,109] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:10:24,522] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:10:24,559] {logging_mixin.py:115} INFO - [2024-01-06 12:10:24,558] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:10:24,575] {logging_mixin.py:115} INFO - [2024-01-06 12:10:24,575] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:10:24,589] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.484 seconds
+[2024-01-06 12:10:54,626] {processor.py:153} INFO - Started process (PID=31391) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:10:54,628] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:10:54,628] {logging_mixin.py:115} INFO - [2024-01-06 12:10:54,628] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:10:55,030] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:10:55,061] {logging_mixin.py:115} INFO - [2024-01-06 12:10:55,061] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:10:55,077] {logging_mixin.py:115} INFO - [2024-01-06 12:10:55,077] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:10:55,091] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.468 seconds
+[2024-01-06 12:11:25,946] {processor.py:153} INFO - Started process (PID=31629) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:11:25,947] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:11:25,947] {logging_mixin.py:115} INFO - [2024-01-06 12:11:25,947] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:11:26,322] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:11:26,358] {logging_mixin.py:115} INFO - [2024-01-06 12:11:26,357] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:11:26,381] {logging_mixin.py:115} INFO - [2024-01-06 12:11:26,381] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:11:26,397] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.453 seconds
+[2024-01-06 12:11:56,425] {processor.py:153} INFO - Started process (PID=31724) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:11:56,426] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:11:56,426] {logging_mixin.py:115} INFO - [2024-01-06 12:11:56,426] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:11:56,863] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:11:56,898] {logging_mixin.py:115} INFO - [2024-01-06 12:11:56,898] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:11:56,916] {logging_mixin.py:115} INFO - [2024-01-06 12:11:56,916] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:11:56,930] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.508 seconds
+[2024-01-06 12:12:26,957] {processor.py:153} INFO - Started process (PID=31817) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:12:26,957] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:12:26,958] {logging_mixin.py:115} INFO - [2024-01-06 12:12:26,958] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:12:27,314] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:12:27,345] {logging_mixin.py:115} INFO - [2024-01-06 12:12:27,344] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:12:27,363] {logging_mixin.py:115} INFO - [2024-01-06 12:12:27,363] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:12:27,376] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.421 seconds
+[2024-01-06 12:12:58,200] {processor.py:153} INFO - Started process (PID=31914) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:12:58,208] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:12:58,209] {logging_mixin.py:115} INFO - [2024-01-06 12:12:58,209] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:12:58,601] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:12:58,642] {logging_mixin.py:115} INFO - [2024-01-06 12:12:58,641] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:12:58,662] {logging_mixin.py:115} INFO - [2024-01-06 12:12:58,662] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:12:58,678] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.480 seconds
+[2024-01-06 12:13:28,810] {processor.py:153} INFO - Started process (PID=32008) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:13:28,811] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:13:28,811] {logging_mixin.py:115} INFO - [2024-01-06 12:13:28,811] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:13:29,170] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:13:29,206] {logging_mixin.py:115} INFO - [2024-01-06 12:13:29,206] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:13:29,222] {logging_mixin.py:115} INFO - [2024-01-06 12:13:29,222] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:13:29,235] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.428 seconds
+[2024-01-06 12:14:00,082] {processor.py:153} INFO - Started process (PID=32103) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:14:00,084] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:14:00,084] {logging_mixin.py:115} INFO - [2024-01-06 12:14:00,084] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:14:00,447] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:14:00,494] {logging_mixin.py:115} INFO - [2024-01-06 12:14:00,494] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:14:00,513] {logging_mixin.py:115} INFO - [2024-01-06 12:14:00,513] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:14:00,526] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.446 seconds
+[2024-01-06 12:14:30,621] {processor.py:153} INFO - Started process (PID=32198) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:14:30,622] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:14:30,622] {logging_mixin.py:115} INFO - [2024-01-06 12:14:30,622] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:14:30,969] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:14:31,004] {logging_mixin.py:115} INFO - [2024-01-06 12:14:31,004] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:14:31,020] {logging_mixin.py:115} INFO - [2024-01-06 12:14:31,020] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:14:31,034] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.415 seconds
+[2024-01-06 12:15:01,703] {processor.py:153} INFO - Started process (PID=32294) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:15:01,705] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:15:01,705] {logging_mixin.py:115} INFO - [2024-01-06 12:15:01,705] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:15:02,051] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:15:02,082] {logging_mixin.py:115} INFO - [2024-01-06 12:15:02,082] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:15:02,099] {logging_mixin.py:115} INFO - [2024-01-06 12:15:02,099] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:15:02,121] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.421 seconds
+[2024-01-06 12:15:33,014] {processor.py:153} INFO - Started process (PID=32381) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:15:33,014] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:15:33,015] {logging_mixin.py:115} INFO - [2024-01-06 12:15:33,015] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:15:33,422] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:15:33,471] {logging_mixin.py:115} INFO - [2024-01-06 12:15:33,469] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:15:33,489] {logging_mixin.py:115} INFO - [2024-01-06 12:15:33,489] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:15:33,503] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.491 seconds
+[2024-01-06 12:16:03,776] {processor.py:153} INFO - Started process (PID=32479) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:16:03,777] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:16:03,777] {logging_mixin.py:115} INFO - [2024-01-06 12:16:03,777] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:16:04,120] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:16:04,154] {logging_mixin.py:115} INFO - [2024-01-06 12:16:04,154] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:16:04,170] {logging_mixin.py:115} INFO - [2024-01-06 12:16:04,169] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:16:04,189] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.417 seconds
+[2024-01-06 12:16:34,869] {processor.py:153} INFO - Started process (PID=32594) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:16:34,869] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:16:34,870] {logging_mixin.py:115} INFO - [2024-01-06 12:16:34,870] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:16:35,246] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:16:35,283] {logging_mixin.py:115} INFO - [2024-01-06 12:16:35,283] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:16:35,301] {logging_mixin.py:115} INFO - [2024-01-06 12:16:35,301] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:16:35,315] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.449 seconds
+[2024-01-06 12:17:06,209] {processor.py:153} INFO - Started process (PID=32688) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:17:06,216] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:17:06,217] {logging_mixin.py:115} INFO - [2024-01-06 12:17:06,217] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:17:06,574] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:17:06,607] {logging_mixin.py:115} INFO - [2024-01-06 12:17:06,606] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:17:06,621] {logging_mixin.py:115} INFO - [2024-01-06 12:17:06,621] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:17:06,638] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.432 seconds
+[2024-01-06 12:17:37,380] {processor.py:153} INFO - Started process (PID=32780) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:17:37,380] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:17:37,381] {logging_mixin.py:115} INFO - [2024-01-06 12:17:37,381] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:17:37,746] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:17:37,777] {logging_mixin.py:115} INFO - [2024-01-06 12:17:37,776] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:17:37,793] {logging_mixin.py:115} INFO - [2024-01-06 12:17:37,793] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:17:37,805] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.427 seconds
+[2024-01-06 12:18:08,553] {processor.py:153} INFO - Started process (PID=32868) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:18:08,555] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:18:08,555] {logging_mixin.py:115} INFO - [2024-01-06 12:18:08,555] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:18:08,902] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:18:08,938] {logging_mixin.py:115} INFO - [2024-01-06 12:18:08,938] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:18:08,953] {logging_mixin.py:115} INFO - [2024-01-06 12:18:08,953] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:18:08,975] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.425 seconds
+[2024-01-06 12:18:39,745] {processor.py:153} INFO - Started process (PID=32959) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:18:39,746] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:18:39,747] {logging_mixin.py:115} INFO - [2024-01-06 12:18:39,747] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:18:40,076] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:18:40,113] {logging_mixin.py:115} INFO - [2024-01-06 12:18:40,113] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:18:40,132] {logging_mixin.py:115} INFO - [2024-01-06 12:18:40,132] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:18:40,154] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.412 seconds
+[2024-01-06 12:19:10,977] {processor.py:153} INFO - Started process (PID=33043) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:19:10,977] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:19:10,978] {logging_mixin.py:115} INFO - [2024-01-06 12:19:10,978] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:19:11,349] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:19:11,378] {logging_mixin.py:115} INFO - [2024-01-06 12:19:11,378] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:19:11,393] {logging_mixin.py:115} INFO - [2024-01-06 12:19:11,393] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:19:11,407] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.433 seconds
+[2024-01-06 12:19:42,110] {processor.py:153} INFO - Started process (PID=33133) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:19:42,118] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:19:42,119] {logging_mixin.py:115} INFO - [2024-01-06 12:19:42,119] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:19:42,459] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:19:42,509] {logging_mixin.py:115} INFO - [2024-01-06 12:19:42,509] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:19:42,525] {logging_mixin.py:115} INFO - [2024-01-06 12:19:42,524] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:19:42,539] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.432 seconds
+[2024-01-06 12:20:13,184] {processor.py:153} INFO - Started process (PID=33226) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:20:13,184] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:20:13,184] {logging_mixin.py:115} INFO - [2024-01-06 12:20:13,184] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:20:13,519] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:20:13,568] {logging_mixin.py:115} INFO - [2024-01-06 12:20:13,568] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:20:13,587] {logging_mixin.py:115} INFO - [2024-01-06 12:20:13,587] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:20:13,615] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.434 seconds
+[2024-01-06 12:20:44,571] {processor.py:153} INFO - Started process (PID=33319) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:20:44,578] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:20:44,580] {logging_mixin.py:115} INFO - [2024-01-06 12:20:44,579] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:20:44,932] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:20:44,966] {logging_mixin.py:115} INFO - [2024-01-06 12:20:44,965] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:20:44,982] {logging_mixin.py:115} INFO - [2024-01-06 12:20:44,982] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:20:45,001] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.432 seconds
+[2024-01-06 12:21:15,908] {processor.py:153} INFO - Started process (PID=33416) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:21:15,909] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:21:15,909] {logging_mixin.py:115} INFO - [2024-01-06 12:21:15,909] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:21:16,259] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:21:16,292] {logging_mixin.py:115} INFO - [2024-01-06 12:21:16,292] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:21:16,308] {logging_mixin.py:115} INFO - [2024-01-06 12:21:16,308] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:21:16,339] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.433 seconds
+[2024-01-06 12:21:46,400] {processor.py:153} INFO - Started process (PID=33520) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:21:46,401] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:21:46,401] {logging_mixin.py:115} INFO - [2024-01-06 12:21:46,401] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:21:46,738] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:21:46,771] {logging_mixin.py:115} INFO - [2024-01-06 12:21:46,771] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:21:46,788] {logging_mixin.py:115} INFO - [2024-01-06 12:21:46,788] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:21:46,809] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.412 seconds
+[2024-01-06 12:22:17,752] {processor.py:153} INFO - Started process (PID=33611) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:22:17,752] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:22:17,753] {logging_mixin.py:115} INFO - [2024-01-06 12:22:17,752] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:22:18,093] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:22:18,124] {logging_mixin.py:115} INFO - [2024-01-06 12:22:18,124] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:22:18,140] {logging_mixin.py:115} INFO - [2024-01-06 12:22:18,140] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:22:18,159] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.410 seconds
+[2024-01-06 12:22:49,121] {processor.py:153} INFO - Started process (PID=33701) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:22:49,128] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:22:49,129] {logging_mixin.py:115} INFO - [2024-01-06 12:22:49,129] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:22:49,487] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:22:49,523] {logging_mixin.py:115} INFO - [2024-01-06 12:22:49,523] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:22:49,540] {logging_mixin.py:115} INFO - [2024-01-06 12:22:49,540] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:22:49,560] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.442 seconds
+[2024-01-06 12:23:20,252] {processor.py:153} INFO - Started process (PID=33792) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:23:20,252] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:23:20,252] {logging_mixin.py:115} INFO - [2024-01-06 12:23:20,252] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:23:20,625] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:23:20,657] {logging_mixin.py:115} INFO - [2024-01-06 12:23:20,657] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:23:20,672] {logging_mixin.py:115} INFO - [2024-01-06 12:23:20,671] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:23:20,687] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.438 seconds
+[2024-01-06 12:23:51,146] {processor.py:153} INFO - Started process (PID=33880) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:23:51,147] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:23:51,147] {logging_mixin.py:115} INFO - [2024-01-06 12:23:51,147] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:23:51,546] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:23:51,578] {logging_mixin.py:115} INFO - [2024-01-06 12:23:51,578] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:23:51,593] {logging_mixin.py:115} INFO - [2024-01-06 12:23:51,593] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:23:51,606] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.462 seconds
+[2024-01-06 12:24:22,495] {processor.py:153} INFO - Started process (PID=33977) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:24:22,497] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:24:22,498] {logging_mixin.py:115} INFO - [2024-01-06 12:24:22,498] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:24:22,823] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:24:22,860] {logging_mixin.py:115} INFO - [2024-01-06 12:24:22,860] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:24:22,876] {logging_mixin.py:115} INFO - [2024-01-06 12:24:22,876] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:24:22,898] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.405 seconds
+[2024-01-06 12:24:52,936] {processor.py:153} INFO - Started process (PID=34069) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:24:52,937] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:24:52,938] {logging_mixin.py:115} INFO - [2024-01-06 12:24:52,938] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:24:53,281] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:24:53,313] {logging_mixin.py:115} INFO - [2024-01-06 12:24:53,313] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:24:53,329] {logging_mixin.py:115} INFO - [2024-01-06 12:24:53,328] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:24:53,348] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.415 seconds
+[2024-01-06 12:25:23,411] {processor.py:153} INFO - Started process (PID=34160) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:25:23,413] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:25:23,413] {logging_mixin.py:115} INFO - [2024-01-06 12:25:23,413] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:25:23,755] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:25:23,788] {logging_mixin.py:115} INFO - [2024-01-06 12:25:23,788] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:25:23,804] {logging_mixin.py:115} INFO - [2024-01-06 12:25:23,804] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:25:23,825] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.416 seconds
+[2024-01-06 12:25:54,602] {processor.py:153} INFO - Started process (PID=34253) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:25:54,603] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:25:54,604] {logging_mixin.py:115} INFO - [2024-01-06 12:25:54,604] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:25:54,970] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:25:55,001] {logging_mixin.py:115} INFO - [2024-01-06 12:25:55,001] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:25:55,017] {logging_mixin.py:115} INFO - [2024-01-06 12:25:55,017] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:25:55,036] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.437 seconds
+[2024-01-06 12:26:25,095] {processor.py:153} INFO - Started process (PID=34356) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:26:25,096] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:26:25,097] {logging_mixin.py:115} INFO - [2024-01-06 12:26:25,097] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:26:25,431] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:26:25,464] {logging_mixin.py:115} INFO - [2024-01-06 12:26:25,463] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:26:25,482] {logging_mixin.py:115} INFO - [2024-01-06 12:26:25,481] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:26:25,507] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.414 seconds
+[2024-01-06 12:26:56,346] {processor.py:153} INFO - Started process (PID=34448) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:26:56,348] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:26:56,348] {logging_mixin.py:115} INFO - [2024-01-06 12:26:56,348] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:26:56,692] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:26:56,725] {logging_mixin.py:115} INFO - [2024-01-06 12:26:56,725] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:26:56,742] {logging_mixin.py:115} INFO - [2024-01-06 12:26:56,742] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:26:56,764] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.420 seconds
+[2024-01-06 12:27:27,625] {processor.py:153} INFO - Started process (PID=34535) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:27:27,625] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:27:27,626] {logging_mixin.py:115} INFO - [2024-01-06 12:27:27,626] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:27:28,000] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:27:28,035] {logging_mixin.py:115} INFO - [2024-01-06 12:27:28,035] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:27:28,051] {logging_mixin.py:115} INFO - [2024-01-06 12:27:28,050] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:27:28,072] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.450 seconds
+[2024-01-06 12:27:58,897] {processor.py:153} INFO - Started process (PID=34633) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:27:58,905] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:27:58,906] {logging_mixin.py:115} INFO - [2024-01-06 12:27:58,906] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:27:59,252] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:27:59,285] {logging_mixin.py:115} INFO - [2024-01-06 12:27:59,285] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:27:59,302] {logging_mixin.py:115} INFO - [2024-01-06 12:27:59,302] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:27:59,320] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.426 seconds
+[2024-01-06 12:28:29,365] {processor.py:153} INFO - Started process (PID=34721) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:28:29,366] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:28:29,366] {logging_mixin.py:115} INFO - [2024-01-06 12:28:29,366] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:28:29,712] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:28:29,742] {logging_mixin.py:115} INFO - [2024-01-06 12:28:29,741] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:28:29,757] {logging_mixin.py:115} INFO - [2024-01-06 12:28:29,757] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:28:29,770] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.408 seconds
+[2024-01-06 12:29:00,695] {processor.py:153} INFO - Started process (PID=34811) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:29:00,703] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:29:00,703] {logging_mixin.py:115} INFO - [2024-01-06 12:29:00,703] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:29:01,076] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:29:01,106] {logging_mixin.py:115} INFO - [2024-01-06 12:29:01,106] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:29:01,120] {logging_mixin.py:115} INFO - [2024-01-06 12:29:01,120] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:29:01,135] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.442 seconds
+[2024-01-06 12:29:32,159] {processor.py:153} INFO - Started process (PID=34911) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:29:32,159] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:29:32,160] {logging_mixin.py:115} INFO - [2024-01-06 12:29:32,159] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:29:32,492] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:29:32,525] {logging_mixin.py:115} INFO - [2024-01-06 12:29:32,525] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:29:32,540] {logging_mixin.py:115} INFO - [2024-01-06 12:29:32,540] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:29:32,560] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.403 seconds
+[2024-01-06 12:30:03,302] {processor.py:153} INFO - Started process (PID=34997) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:30:03,304] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:30:03,304] {logging_mixin.py:115} INFO - [2024-01-06 12:30:03,304] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:30:03,671] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:30:03,705] {logging_mixin.py:115} INFO - [2024-01-06 12:30:03,705] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:30:03,720] {logging_mixin.py:115} INFO - [2024-01-06 12:30:03,720] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:30:03,741] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.441 seconds
+[2024-01-06 12:30:34,601] {processor.py:153} INFO - Started process (PID=35094) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:30:34,602] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:30:34,602] {logging_mixin.py:115} INFO - [2024-01-06 12:30:34,602] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:30:34,976] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:30:35,007] {logging_mixin.py:115} INFO - [2024-01-06 12:30:35,007] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:30:35,029] {logging_mixin.py:115} INFO - [2024-01-06 12:30:35,028] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:30:35,043] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.444 seconds
+[2024-01-06 12:31:05,937] {processor.py:153} INFO - Started process (PID=35180) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:31:05,939] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:31:05,939] {logging_mixin.py:115} INFO - [2024-01-06 12:31:05,939] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:31:06,319] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:31:06,355] {logging_mixin.py:115} INFO - [2024-01-06 12:31:06,355] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:31:06,375] {logging_mixin.py:115} INFO - [2024-01-06 12:31:06,375] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:31:06,391] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.457 seconds
+[2024-01-06 12:31:36,447] {processor.py:153} INFO - Started process (PID=35296) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:31:36,447] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:31:36,449] {logging_mixin.py:115} INFO - [2024-01-06 12:31:36,449] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:31:36,799] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:31:36,832] {logging_mixin.py:115} INFO - [2024-01-06 12:31:36,832] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:31:36,847] {logging_mixin.py:115} INFO - [2024-01-06 12:31:36,847] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:31:36,867] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.423 seconds
+[2024-01-06 12:32:07,783] {processor.py:153} INFO - Started process (PID=35382) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:32:07,785] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:32:07,785] {logging_mixin.py:115} INFO - [2024-01-06 12:32:07,785] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:32:08,125] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:32:08,160] {logging_mixin.py:115} INFO - [2024-01-06 12:32:08,160] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:32:08,177] {logging_mixin.py:115} INFO - [2024-01-06 12:32:08,176] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:32:08,198] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.418 seconds
+[2024-01-06 12:32:39,085] {processor.py:153} INFO - Started process (PID=35476) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:32:39,086] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:32:39,087] {logging_mixin.py:115} INFO - [2024-01-06 12:32:39,087] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:32:39,492] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:32:39,525] {logging_mixin.py:115} INFO - [2024-01-06 12:32:39,524] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:32:39,542] {logging_mixin.py:115} INFO - [2024-01-06 12:32:39,542] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:32:39,558] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.475 seconds
+[2024-01-06 12:33:09,650] {processor.py:153} INFO - Started process (PID=35581) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:33:09,652] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:33:09,652] {logging_mixin.py:115} INFO - [2024-01-06 12:33:09,652] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:33:10,018] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:33:10,059] {logging_mixin.py:115} INFO - [2024-01-06 12:33:10,059] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:33:10,077] {logging_mixin.py:115} INFO - [2024-01-06 12:33:10,077] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:33:10,095] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.447 seconds
+[2024-01-06 12:33:40,136] {processor.py:153} INFO - Started process (PID=35672) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:33:40,138] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:33:40,138] {logging_mixin.py:115} INFO - [2024-01-06 12:33:40,138] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:33:40,517] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:33:40,548] {logging_mixin.py:115} INFO - [2024-01-06 12:33:40,547] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:33:40,564] {logging_mixin.py:115} INFO - [2024-01-06 12:33:40,564] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:33:40,582] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.448 seconds
+[2024-01-06 12:34:10,636] {processor.py:153} INFO - Started process (PID=35769) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:34:10,637] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:34:10,637] {logging_mixin.py:115} INFO - [2024-01-06 12:34:10,637] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:34:10,994] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:34:11,028] {logging_mixin.py:115} INFO - [2024-01-06 12:34:11,028] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:34:11,044] {logging_mixin.py:115} INFO - [2024-01-06 12:34:11,043] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:34:11,057] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.423 seconds
+[2024-01-06 12:34:41,889] {processor.py:153} INFO - Started process (PID=35861) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:34:41,891] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:34:41,892] {logging_mixin.py:115} INFO - [2024-01-06 12:34:41,892] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:34:42,278] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:34:42,314] {logging_mixin.py:115} INFO - [2024-01-06 12:34:42,314] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:34:42,346] {logging_mixin.py:115} INFO - [2024-01-06 12:34:42,346] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:34:42,368] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.482 seconds
+[2024-01-06 12:35:13,126] {processor.py:153} INFO - Started process (PID=35962) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:35:13,128] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:35:13,128] {logging_mixin.py:115} INFO - [2024-01-06 12:35:13,128] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:35:13,467] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:35:13,511] {logging_mixin.py:115} INFO - [2024-01-06 12:35:13,510] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:35:13,527] {logging_mixin.py:115} INFO - [2024-01-06 12:35:13,527] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:35:13,540] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.416 seconds
+[2024-01-06 12:35:44,529] {processor.py:153} INFO - Started process (PID=36057) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:35:44,529] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:35:44,530] {logging_mixin.py:115} INFO - [2024-01-06 12:35:44,530] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:35:44,905] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:35:44,943] {logging_mixin.py:115} INFO - [2024-01-06 12:35:44,943] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:35:44,961] {logging_mixin.py:115} INFO - [2024-01-06 12:35:44,961] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:35:44,975] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.448 seconds
+[2024-01-06 12:36:15,111] {processor.py:153} INFO - Started process (PID=36156) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:36:15,112] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:36:15,112] {logging_mixin.py:115} INFO - [2024-01-06 12:36:15,112] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:36:15,553] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:36:15,587] {logging_mixin.py:115} INFO - [2024-01-06 12:36:15,587] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:36:15,604] {logging_mixin.py:115} INFO - [2024-01-06 12:36:15,604] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:36:15,620] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.515 seconds
+[2024-01-06 12:36:45,707] {processor.py:153} INFO - Started process (PID=36262) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:36:45,708] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:36:45,709] {logging_mixin.py:115} INFO - [2024-01-06 12:36:45,709] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:36:46,055] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:36:46,085] {logging_mixin.py:115} INFO - [2024-01-06 12:36:46,085] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:36:46,101] {logging_mixin.py:115} INFO - [2024-01-06 12:36:46,101] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:36:46,116] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.411 seconds
+[2024-01-06 12:37:16,807] {processor.py:153} INFO - Started process (PID=36353) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:37:16,815] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:37:16,816] {logging_mixin.py:115} INFO - [2024-01-06 12:37:16,816] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:37:17,161] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:37:17,193] {logging_mixin.py:115} INFO - [2024-01-06 12:37:17,193] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:37:17,208] {logging_mixin.py:115} INFO - [2024-01-06 12:37:17,208] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:37:17,230] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.425 seconds
+[2024-01-06 12:37:47,489] {processor.py:153} INFO - Started process (PID=36482) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:37:47,490] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:37:47,490] {logging_mixin.py:115} INFO - [2024-01-06 12:37:47,490] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:37:47,876] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:37:47,909] {logging_mixin.py:115} INFO - [2024-01-06 12:37:47,909] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:37:47,926] {logging_mixin.py:115} INFO - [2024-01-06 12:37:47,926] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:37:47,939] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.453 seconds
+[2024-01-06 12:38:18,858] {processor.py:153} INFO - Started process (PID=36574) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:38:18,860] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:38:18,861] {logging_mixin.py:115} INFO - [2024-01-06 12:38:18,861] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:38:19,224] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:38:19,262] {logging_mixin.py:115} INFO - [2024-01-06 12:38:19,261] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:38:19,278] {logging_mixin.py:115} INFO - [2024-01-06 12:38:19,278] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:38:19,292] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.437 seconds
+[2024-01-06 12:38:49,334] {processor.py:153} INFO - Started process (PID=36676) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:38:49,334] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:38:49,335] {logging_mixin.py:115} INFO - [2024-01-06 12:38:49,335] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:38:49,685] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:38:49,719] {logging_mixin.py:115} INFO - [2024-01-06 12:38:49,719] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:38:49,735] {logging_mixin.py:115} INFO - [2024-01-06 12:38:49,735] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:38:49,749] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.422 seconds
+[2024-01-06 12:39:19,792] {processor.py:153} INFO - Started process (PID=36762) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:39:19,794] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:39:19,794] {logging_mixin.py:115} INFO - [2024-01-06 12:39:19,794] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:39:20,153] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:39:20,187] {logging_mixin.py:115} INFO - [2024-01-06 12:39:20,187] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:39:20,202] {logging_mixin.py:115} INFO - [2024-01-06 12:39:20,202] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:39:20,217] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.427 seconds
+[2024-01-06 12:39:51,045] {processor.py:153} INFO - Started process (PID=36856) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:39:51,045] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:39:51,045] {logging_mixin.py:115} INFO - [2024-01-06 12:39:51,045] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:39:51,385] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:39:51,418] {logging_mixin.py:115} INFO - [2024-01-06 12:39:51,418] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:39:51,435] {logging_mixin.py:115} INFO - [2024-01-06 12:39:51,434] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:39:51,454] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.412 seconds
+[2024-01-06 12:40:22,266] {processor.py:153} INFO - Started process (PID=36942) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:40:22,273] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:40:22,275] {logging_mixin.py:115} INFO - [2024-01-06 12:40:22,274] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:40:22,629] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:40:22,662] {logging_mixin.py:115} INFO - [2024-01-06 12:40:22,662] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:40:22,677] {logging_mixin.py:115} INFO - [2024-01-06 12:40:22,677] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:40:22,696] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.433 seconds
+[2024-01-06 12:40:53,446] {processor.py:153} INFO - Started process (PID=37033) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:40:53,447] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:40:53,447] {logging_mixin.py:115} INFO - [2024-01-06 12:40:53,447] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:40:53,780] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:40:53,849] {logging_mixin.py:115} INFO - [2024-01-06 12:40:53,848] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:40:53,866] {logging_mixin.py:115} INFO - [2024-01-06 12:40:53,866] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:40:53,879] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.436 seconds
+[2024-01-06 12:41:24,664] {processor.py:153} INFO - Started process (PID=37140) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:41:24,665] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:41:24,665] {logging_mixin.py:115} INFO - [2024-01-06 12:41:24,665] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:41:25,012] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:41:25,043] {logging_mixin.py:115} INFO - [2024-01-06 12:41:25,043] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:41:25,059] {logging_mixin.py:115} INFO - [2024-01-06 12:41:25,058] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:41:25,072] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.411 seconds
+[2024-01-06 12:41:55,786] {processor.py:153} INFO - Started process (PID=37232) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:41:55,787] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:41:55,788] {logging_mixin.py:115} INFO - [2024-01-06 12:41:55,788] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:41:56,111] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:41:56,146] {logging_mixin.py:115} INFO - [2024-01-06 12:41:56,146] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:41:56,162] {logging_mixin.py:115} INFO - [2024-01-06 12:41:56,162] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:41:56,185] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.401 seconds
+[2024-01-06 12:42:27,055] {processor.py:153} INFO - Started process (PID=37319) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:42:27,062] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:42:27,063] {logging_mixin.py:115} INFO - [2024-01-06 12:42:27,063] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:42:27,412] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:42:27,444] {logging_mixin.py:115} INFO - [2024-01-06 12:42:27,443] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:42:27,460] {logging_mixin.py:115} INFO - [2024-01-06 12:42:27,460] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:42:27,482] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.429 seconds
+[2024-01-06 12:42:58,378] {processor.py:153} INFO - Started process (PID=37415) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:42:58,380] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:42:58,380] {logging_mixin.py:115} INFO - [2024-01-06 12:42:58,380] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:42:58,727] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:42:58,761] {logging_mixin.py:115} INFO - [2024-01-06 12:42:58,760] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:42:58,776] {logging_mixin.py:115} INFO - [2024-01-06 12:42:58,775] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:42:58,797] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.421 seconds
+[2024-01-06 12:43:29,538] {processor.py:153} INFO - Started process (PID=37508) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:43:29,539] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:43:29,540] {logging_mixin.py:115} INFO - [2024-01-06 12:43:29,540] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:43:29,873] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:43:29,912] {logging_mixin.py:115} INFO - [2024-01-06 12:43:29,911] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:43:29,935] {logging_mixin.py:115} INFO - [2024-01-06 12:43:29,935] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:43:29,956] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.421 seconds
+[2024-01-06 12:44:00,630] {processor.py:153} INFO - Started process (PID=37596) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:44:00,630] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:44:00,630] {logging_mixin.py:115} INFO - [2024-01-06 12:44:00,630] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:44:00,987] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:44:01,022] {logging_mixin.py:115} INFO - [2024-01-06 12:44:01,022] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:44:01,038] {logging_mixin.py:115} INFO - [2024-01-06 12:44:01,038] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:44:01,059] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.433 seconds
+[2024-01-06 12:44:31,093] {processor.py:153} INFO - Started process (PID=37689) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:44:31,095] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:44:31,096] {logging_mixin.py:115} INFO - [2024-01-06 12:44:31,096] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:44:31,446] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:44:31,480] {logging_mixin.py:115} INFO - [2024-01-06 12:44:31,480] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:44:31,497] {logging_mixin.py:115} INFO - [2024-01-06 12:44:31,497] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:44:31,511] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.421 seconds
+[2024-01-06 12:45:02,194] {processor.py:153} INFO - Started process (PID=37781) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:45:02,195] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:45:02,195] {logging_mixin.py:115} INFO - [2024-01-06 12:45:02,195] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:45:02,551] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:45:02,584] {logging_mixin.py:115} INFO - [2024-01-06 12:45:02,583] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:45:02,601] {logging_mixin.py:115} INFO - [2024-01-06 12:45:02,600] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:45:02,615] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.423 seconds
+[2024-01-06 12:45:32,655] {processor.py:153} INFO - Started process (PID=37867) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:45:32,662] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:45:32,663] {logging_mixin.py:115} INFO - [2024-01-06 12:45:32,663] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:45:32,992] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:45:33,024] {logging_mixin.py:115} INFO - [2024-01-06 12:45:33,024] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:45:33,042] {logging_mixin.py:115} INFO - [2024-01-06 12:45:33,042] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:45:33,057] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.405 seconds
+[2024-01-06 12:46:03,894] {processor.py:153} INFO - Started process (PID=37961) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:46:03,895] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:46:03,896] {logging_mixin.py:115} INFO - [2024-01-06 12:46:03,895] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:46:04,228] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:46:04,260] {logging_mixin.py:115} INFO - [2024-01-06 12:46:04,260] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:46:04,275] {logging_mixin.py:115} INFO - [2024-01-06 12:46:04,275] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:46:04,295] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.404 seconds
+[2024-01-06 12:46:35,154] {processor.py:153} INFO - Started process (PID=38065) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:46:35,162] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:46:35,162] {logging_mixin.py:115} INFO - [2024-01-06 12:46:35,162] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:46:35,539] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:46:35,572] {logging_mixin.py:115} INFO - [2024-01-06 12:46:35,571] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:46:35,587] {logging_mixin.py:115} INFO - [2024-01-06 12:46:35,587] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:46:35,602] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.451 seconds
+[2024-01-06 12:47:06,552] {processor.py:153} INFO - Started process (PID=38161) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:47:06,553] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:47:06,553] {logging_mixin.py:115} INFO - [2024-01-06 12:47:06,553] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:47:06,903] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:47:06,939] {logging_mixin.py:115} INFO - [2024-01-06 12:47:06,938] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:47:06,955] {logging_mixin.py:115} INFO - [2024-01-06 12:47:06,955] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:47:06,970] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.421 seconds
+[2024-01-06 12:47:37,930] {processor.py:153} INFO - Started process (PID=38252) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:47:37,938] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:47:37,939] {logging_mixin.py:115} INFO - [2024-01-06 12:47:37,939] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:47:38,283] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:47:38,317] {logging_mixin.py:115} INFO - [2024-01-06 12:47:38,316] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:47:38,333] {logging_mixin.py:115} INFO - [2024-01-06 12:47:38,332] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:47:38,354] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.426 seconds
+[2024-01-06 12:48:09,167] {processor.py:153} INFO - Started process (PID=38341) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:48:09,168] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:48:09,168] {logging_mixin.py:115} INFO - [2024-01-06 12:48:09,168] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:48:09,530] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:48:09,567] {logging_mixin.py:115} INFO - [2024-01-06 12:48:09,567] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:48:09,582] {logging_mixin.py:115} INFO - [2024-01-06 12:48:09,582] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:48:09,595] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.431 seconds
+[2024-01-06 12:48:39,652] {processor.py:153} INFO - Started process (PID=38435) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:48:39,653] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:48:39,654] {logging_mixin.py:115} INFO - [2024-01-06 12:48:39,654] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:48:39,992] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:48:40,023] {logging_mixin.py:115} INFO - [2024-01-06 12:48:40,023] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:48:40,040] {logging_mixin.py:115} INFO - [2024-01-06 12:48:40,040] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:48:40,055] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.405 seconds
+[2024-01-06 12:49:10,079] {processor.py:153} INFO - Started process (PID=38523) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:49:10,080] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:49:10,080] {logging_mixin.py:115} INFO - [2024-01-06 12:49:10,080] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:49:10,415] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:49:10,448] {logging_mixin.py:115} INFO - [2024-01-06 12:49:10,448] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:49:10,463] {logging_mixin.py:115} INFO - [2024-01-06 12:49:10,463] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:49:10,479] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.402 seconds
+[2024-01-06 12:49:41,333] {processor.py:153} INFO - Started process (PID=38617) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:49:41,341] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:49:41,342] {logging_mixin.py:115} INFO - [2024-01-06 12:49:41,341] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:49:41,703] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:49:41,739] {logging_mixin.py:115} INFO - [2024-01-06 12:49:41,739] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:49:41,757] {logging_mixin.py:115} INFO - [2024-01-06 12:49:41,757] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:49:41,770] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.440 seconds
+[2024-01-06 12:50:11,799] {processor.py:153} INFO - Started process (PID=38707) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:50:11,800] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:50:11,800] {logging_mixin.py:115} INFO - [2024-01-06 12:50:11,800] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:50:12,150] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:50:12,185] {logging_mixin.py:115} INFO - [2024-01-06 12:50:12,185] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:50:12,201] {logging_mixin.py:115} INFO - [2024-01-06 12:50:12,201] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:50:12,217] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.420 seconds
+[2024-01-06 12:50:43,169] {processor.py:153} INFO - Started process (PID=38798) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:50:43,177] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:50:43,178] {logging_mixin.py:115} INFO - [2024-01-06 12:50:43,178] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:50:43,523] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:50:43,556] {logging_mixin.py:115} INFO - [2024-01-06 12:50:43,555] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:50:43,571] {logging_mixin.py:115} INFO - [2024-01-06 12:50:43,571] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:50:43,586] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.419 seconds
+[2024-01-06 12:51:13,669] {processor.py:153} INFO - Started process (PID=38886) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:51:13,670] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:51:13,670] {logging_mixin.py:115} INFO - [2024-01-06 12:51:13,670] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:51:14,013] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:51:14,052] {logging_mixin.py:115} INFO - [2024-01-06 12:51:14,052] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:51:14,071] {logging_mixin.py:115} INFO - [2024-01-06 12:51:14,070] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:51:14,084] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.417 seconds
+[2024-01-06 12:51:44,949] {processor.py:153} INFO - Started process (PID=38999) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:51:44,959] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:51:44,960] {logging_mixin.py:115} INFO - [2024-01-06 12:51:44,960] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:51:45,329] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:51:45,362] {logging_mixin.py:115} INFO - [2024-01-06 12:51:45,361] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:51:45,376] {logging_mixin.py:115} INFO - [2024-01-06 12:51:45,375] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:51:45,391] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.448 seconds
+[2024-01-06 12:52:15,505] {processor.py:153} INFO - Started process (PID=39091) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:52:15,505] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:52:15,505] {logging_mixin.py:115} INFO - [2024-01-06 12:52:15,505] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:52:15,887] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:52:15,919] {logging_mixin.py:115} INFO - [2024-01-06 12:52:15,918] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:52:15,933] {logging_mixin.py:115} INFO - [2024-01-06 12:52:15,933] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:52:15,951] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.449 seconds
+[2024-01-06 12:52:45,979] {processor.py:153} INFO - Started process (PID=39179) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:52:45,981] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:52:45,981] {logging_mixin.py:115} INFO - [2024-01-06 12:52:45,981] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:52:46,376] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:52:46,410] {logging_mixin.py:115} INFO - [2024-01-06 12:52:46,410] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:52:46,425] {logging_mixin.py:115} INFO - [2024-01-06 12:52:46,425] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:52:46,444] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.467 seconds
+[2024-01-06 12:53:17,191] {processor.py:153} INFO - Started process (PID=39275) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:53:17,192] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:53:17,192] {logging_mixin.py:115} INFO - [2024-01-06 12:53:17,192] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:53:17,551] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:53:17,587] {logging_mixin.py:115} INFO - [2024-01-06 12:53:17,587] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:53:17,606] {logging_mixin.py:115} INFO - [2024-01-06 12:53:17,605] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:53:17,625] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.436 seconds
+[2024-01-06 12:53:48,531] {processor.py:153} INFO - Started process (PID=39362) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:53:48,533] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:53:48,533] {logging_mixin.py:115} INFO - [2024-01-06 12:53:48,533] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:53:48,930] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:53:48,963] {logging_mixin.py:115} INFO - [2024-01-06 12:53:48,963] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:53:48,977] {logging_mixin.py:115} INFO - [2024-01-06 12:53:48,977] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:53:48,992] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.463 seconds
+[2024-01-06 12:54:19,542] {processor.py:153} INFO - Started process (PID=39456) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:54:19,544] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:54:19,545] {logging_mixin.py:115} INFO - [2024-01-06 12:54:19,545] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:54:19,895] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:54:19,926] {logging_mixin.py:115} INFO - [2024-01-06 12:54:19,926] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:54:19,942] {logging_mixin.py:115} INFO - [2024-01-06 12:54:19,942] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:54:19,956] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.416 seconds
+[2024-01-06 12:54:50,869] {processor.py:153} INFO - Started process (PID=39543) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:54:50,887] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:54:50,891] {logging_mixin.py:115} INFO - [2024-01-06 12:54:50,891] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:54:51,275] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:54:51,308] {logging_mixin.py:115} INFO - [2024-01-06 12:54:51,308] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:54:51,326] {logging_mixin.py:115} INFO - [2024-01-06 12:54:51,326] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:54:51,341] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.476 seconds
+[2024-01-06 12:55:22,212] {processor.py:153} INFO - Started process (PID=39645) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:55:22,213] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:55:22,213] {logging_mixin.py:115} INFO - [2024-01-06 12:55:22,213] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:55:22,575] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:55:22,610] {logging_mixin.py:115} INFO - [2024-01-06 12:55:22,610] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:55:22,630] {logging_mixin.py:115} INFO - [2024-01-06 12:55:22,630] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:55:22,644] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.434 seconds
+[2024-01-06 12:55:52,754] {processor.py:153} INFO - Started process (PID=39729) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:55:52,761] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:55:52,762] {logging_mixin.py:115} INFO - [2024-01-06 12:55:52,762] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:55:53,179] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:55:53,213] {logging_mixin.py:115} INFO - [2024-01-06 12:55:53,212] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:55:53,232] {logging_mixin.py:115} INFO - [2024-01-06 12:55:53,232] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:55:53,246] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.495 seconds
+[2024-01-06 12:56:24,213] {processor.py:153} INFO - Started process (PID=39841) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:56:24,214] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:56:24,214] {logging_mixin.py:115} INFO - [2024-01-06 12:56:24,214] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:56:24,618] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:56:24,686] {logging_mixin.py:115} INFO - [2024-01-06 12:56:24,686] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:56:24,711] {logging_mixin.py:115} INFO - [2024-01-06 12:56:24,711] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:56:24,730] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.519 seconds
+[2024-01-06 12:56:54,865] {processor.py:153} INFO - Started process (PID=39939) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:56:54,867] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:56:54,867] {logging_mixin.py:115} INFO - [2024-01-06 12:56:54,867] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:56:55,197] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:56:55,230] {logging_mixin.py:115} INFO - [2024-01-06 12:56:55,230] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:56:55,248] {logging_mixin.py:115} INFO - [2024-01-06 12:56:55,247] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:56:55,270] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.407 seconds
+[2024-01-06 12:57:25,316] {processor.py:153} INFO - Started process (PID=40023) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:57:25,316] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:57:25,317] {logging_mixin.py:115} INFO - [2024-01-06 12:57:25,317] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:57:25,694] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:57:25,724] {logging_mixin.py:115} INFO - [2024-01-06 12:57:25,724] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:57:25,741] {logging_mixin.py:115} INFO - [2024-01-06 12:57:25,740] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:57:25,754] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.441 seconds
+[2024-01-06 12:57:56,626] {processor.py:153} INFO - Started process (PID=40121) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:57:56,634] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:57:56,634] {logging_mixin.py:115} INFO - [2024-01-06 12:57:56,634] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:57:56,974] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:57:57,006] {logging_mixin.py:115} INFO - [2024-01-06 12:57:57,005] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:57:57,023] {logging_mixin.py:115} INFO - [2024-01-06 12:57:57,023] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:57:57,044] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.421 seconds
+[2024-01-06 12:58:27,485] {processor.py:153} INFO - Started process (PID=40209) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:58:27,486] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:58:27,486] {logging_mixin.py:115} INFO - [2024-01-06 12:58:27,486] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:58:27,819] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:58:27,872] {logging_mixin.py:115} INFO - [2024-01-06 12:58:27,872] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:58:27,888] {logging_mixin.py:115} INFO - [2024-01-06 12:58:27,888] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:58:27,902] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.419 seconds
+[2024-01-06 12:58:58,806] {processor.py:153} INFO - Started process (PID=40317) to work on /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:58:58,807] {processor.py:641} INFO - Processing file /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py for tasks to queue
+[2024-01-06 12:58:58,808] {logging_mixin.py:115} INFO - [2024-01-06 12:58:58,808] {dagbag.py:507} INFO - Filling up the DagBag from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:58:59,226] {processor.py:651} INFO - DAG(s) dict_keys(['get_stocks_dag']) retrieved from /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py
+[2024-01-06 12:58:59,271] {logging_mixin.py:115} INFO - [2024-01-06 12:58:59,271] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-01-06 12:58:59,292] {logging_mixin.py:115} INFO - [2024-01-06 12:58:59,291] {dag.py:2927} INFO - Setting next_dagrun for get_stocks_dag to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-01-06 12:58:59,308] {processor.py:161} INFO - Processing /home/eder/Desktop/Airflow/Financial/airflow/dags/get_stocks.py took 0.505 seconds
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

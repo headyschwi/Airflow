@@ -1,0 +1,20 @@
+[2024-01-05T16:39:59.023+0000] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: TwitterDAG.get_raw_data_twitter manual__2024-01-05T16:39:51.106087+00:00 [queued]>
+[2024-01-05T16:39:59.035+0000] {taskinstance.py:1957} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: TwitterDAG.get_raw_data_twitter manual__2024-01-05T16:39:51.106087+00:00 [queued]>
+[2024-01-05T16:39:59.036+0000] {taskinstance.py:2171} INFO - Starting attempt 1 of 1
+[2024-01-05T16:39:59.216+0000] {taskinstance.py:2192} INFO - Executing <Task(TwitterOperator): get_raw_data_twitter> on 2024-01-05 16:39:51.106087+00:00
+[2024-01-05T16:39:59.228+0000] {standard_task_runner.py:60} INFO - Started process 7538 to run task
+[2024-01-05T16:39:59.246+0000] {standard_task_runner.py:87} INFO - Running: ['airflow', 'tasks', 'run', 'TwitterDAG', 'get_raw_data_twitter', 'manual__2024-01-05T16:39:51.106087+00:00', '--job-id', '42', '--raw', '--subdir', 'DAGS_FOLDER/twitter_dag.py', '--cfg-path', '/tmp/tmpeo7japjh']
+[2024-01-05T16:39:59.247+0000] {standard_task_runner.py:88} INFO - Job 42: Subtask get_raw_data_twitter
+[2024-01-05T16:39:59.436+0000] {task_command.py:423} INFO - Running <TaskInstance: TwitterDAG.get_raw_data_twitter manual__2024-01-05T16:39:51.106087+00:00 [running]> on host airflow.vm.local
+[2024-01-05T16:39:59.594+0000] {taskinstance.py:2481} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='TwitterDAG' AIRFLOW_CTX_TASK_ID='get_raw_data_twitter' AIRFLOW_CTX_EXECUTION_DATE='2024-01-05T16:39:51.106087+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-01-05T16:39:51.106087+00:00'
+[2024-01-05T16:39:59.603+0000] {taskinstance.py:2699} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/eder/Desktop/Airflow/Twitter/venv/lib/python3.9/site-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/eder/Desktop/Airflow/Twitter/airflow_pipeline/dags/twitter_dag.py", line 80, in execute
+    (pathlib.Path(self.file_path).parent).mkdir(parents=True, exist_ok=True)
+NameError: name 'pathlib' is not defined
+[2024-01-05T16:39:59.623+0000] {taskinstance.py:1138} INFO - Marking task as FAILED. dag_id=TwitterDAG, task_id=get_raw_data_twitter, execution_date=20240105T163951, start_date=20240105T163959, end_date=20240105T163959
+[2024-01-05T16:39:59.711+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 42 for task get_raw_data_twitter (name 'pathlib' is not defined; 7538)
+[2024-01-05T16:39:59.748+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2024-01-05T16:39:59.846+0000] {taskinstance.py:3281} INFO - 0 downstream tasks scheduled from follow-on schedule check

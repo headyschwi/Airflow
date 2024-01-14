@@ -1,0 +1,24 @@
+[2024-01-06 12:03:05,397] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: get_stocks_dag.QDVE.DE scheduled__2024-01-02T00:00:00+00:00 [queued]>
+[2024-01-06 12:03:05,415] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: get_stocks_dag.QDVE.DE scheduled__2024-01-02T00:00:00+00:00 [queued]>
+[2024-01-06 12:03:05,418] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2024-01-06 12:03:05,422] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2024-01-06 12:03:05,423] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2024-01-06 12:03:05,457] {taskinstance.py:1377} INFO - Executing <Task(_PythonDecoratedOperator): QDVE.DE> on 2024-01-02 00:00:00+00:00
+[2024-01-06 12:03:05,465] {standard_task_runner.py:52} INFO - Started process 27421 to run task
+[2024-01-06 12:03:05,470] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'get_stocks_dag', 'QDVE.DE', 'scheduled__2024-01-02T00:00:00+00:00', '--job-id', '16', '--raw', '--subdir', 'DAGS_FOLDER/get_stocks.py', '--cfg-path', '/tmp/tmpskrsqrvu', '--error-file', '/tmp/tmpofsqfp41']
+[2024-01-06 12:03:05,473] {standard_task_runner.py:80} INFO - Job 16: Subtask QDVE.DE
+[2024-01-06 12:03:05,593] {task_command.py:370} INFO - Running <TaskInstance: get_stocks_dag.QDVE.DE scheduled__2024-01-02T00:00:00+00:00 [running]> on host airflow.vm.local
+[2024-01-06 12:03:05,763] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=get_stocks_dag
+AIRFLOW_CTX_TASK_ID=QDVE.DE
+AIRFLOW_CTX_EXECUTION_DATE=2024-01-02T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-01-02T00:00:00+00:00
+[2024-01-06 12:04:26,580] {base.py:288} ERROR - QDVE.DE: No price data found, symbol may be delisted (1h 2024-01-01 -> 2024-01-02)
+[2024-01-06 12:04:26,595] {python.py:173} INFO - Done. Returned value was: None
+[2024-01-06 12:04:26,764] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=get_stocks_dag, task_id=QDVE.DE, execution_date=20240102T000000, start_date=20240106T120305, end_date=20240106T120426
+[2024-01-06 12:04:26,961] {local_task_job.py:156} INFO - Task exited with return code 0
+[2024-01-06 12:04:27,140] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
